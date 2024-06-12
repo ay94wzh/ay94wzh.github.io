@@ -1,2 +1,2 @@
 # My Blog
-## 有时间再来弄这玩意儿吧
+review.zip includes a md-file and all images.
